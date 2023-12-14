@@ -1,7 +1,7 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fybx/systemXD/main/icons/dark.svg">
-    <source media="(prefers-color-scheme): light" srcset="https://raw.githubusercontent.com/fybx/systemXD/main/icons/light.svg">
-    <img alt="The systemXD logo." src="https://raw.githubusercontent.com/fybx/systemXD/main/icons/dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fybx/systemXD/main/icons/light.svg">
+    <source media="(prefers-color-scheme): light" srcset="https://raw.githubusercontent.com/fybx/systemXD/main/icons/dark.svg">
+    <img alt="The systemXD logo." src="https://raw.githubusercontent.com/fybx/systemXD/main/icons/light.svg">
 </picture>
 
 # systemXD

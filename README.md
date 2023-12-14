@@ -1,10 +1,12 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fybx/systemXD/main/icons/light.svg">
     <source media="(prefers-color-scheme): light" srcset="https://raw.githubusercontent.com/fybx/systemXD/main/icons/dark.svg">
-    <img alt="The systemXD logo." src="https://raw.githubusercontent.com/fybx/systemXD/main/icons/light.svg">
+    <img alt="The systemXD logo." src="https://raw.githubusercontent.com/fybx/systemXD/main/icons/light.svg" width="500">
 </picture>
 
-# systemXD
+---
+
+# systemxd (stylized systemXD as in XD)
 
 systemXD is a WIP "service" abstraction layer, built to be used along systemd timers and services. systemXD can 
 - build services using custom scripts, 
